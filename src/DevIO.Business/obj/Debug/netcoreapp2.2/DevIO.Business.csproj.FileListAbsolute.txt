@@ -1,0 +1,9 @@
+D:\Repositorios\ApiModel\src\DevIO.Business\bin\Debug\netcoreapp2.2\DevIO.Business.deps.json
+D:\Repositorios\ApiModel\src\DevIO.Business\bin\Debug\netcoreapp2.2\DevIO.Business.dll
+D:\Repositorios\ApiModel\src\DevIO.Business\bin\Debug\netcoreapp2.2\DevIO.Business.pdb
+D:\Repositorios\ApiModel\src\DevIO.Business\obj\Debug\netcoreapp2.2\DevIO.Business.csprojAssemblyReference.cache
+D:\Repositorios\ApiModel\src\DevIO.Business\obj\Debug\netcoreapp2.2\DevIO.Business.csproj.CoreCompileInputs.cache
+D:\Repositorios\ApiModel\src\DevIO.Business\obj\Debug\netcoreapp2.2\DevIO.Business.AssemblyInfoInputs.cache
+D:\Repositorios\ApiModel\src\DevIO.Business\obj\Debug\netcoreapp2.2\DevIO.Business.AssemblyInfo.cs
+D:\Repositorios\ApiModel\src\DevIO.Business\obj\Debug\netcoreapp2.2\DevIO.Business.dll
+D:\Repositorios\ApiModel\src\DevIO.Business\obj\Debug\netcoreapp2.2\DevIO.Business.pdb

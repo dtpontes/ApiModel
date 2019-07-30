@@ -1,0 +1,12 @@
+D:\Repositorios\ApiModel\src\DevIO.Data\bin\Debug\netcoreapp2.2\DevIO.Data.deps.json
+D:\Repositorios\ApiModel\src\DevIO.Data\bin\Debug\netcoreapp2.2\DevIO.Data.dll
+D:\Repositorios\ApiModel\src\DevIO.Data\bin\Debug\netcoreapp2.2\DevIO.Data.pdb
+D:\Repositorios\ApiModel\src\DevIO.Data\bin\Debug\netcoreapp2.2\DevIO.Business.dll
+D:\Repositorios\ApiModel\src\DevIO.Data\bin\Debug\netcoreapp2.2\DevIO.Business.pdb
+D:\Repositorios\ApiModel\src\DevIO.Data\obj\Debug\netcoreapp2.2\DevIO.Data.csprojAssemblyReference.cache
+D:\Repositorios\ApiModel\src\DevIO.Data\obj\Debug\netcoreapp2.2\DevIO.Data.csproj.CoreCompileInputs.cache
+D:\Repositorios\ApiModel\src\DevIO.Data\obj\Debug\netcoreapp2.2\DevIO.Data.AssemblyInfoInputs.cache
+D:\Repositorios\ApiModel\src\DevIO.Data\obj\Debug\netcoreapp2.2\DevIO.Data.AssemblyInfo.cs
+D:\Repositorios\ApiModel\src\DevIO.Data\obj\Debug\netcoreapp2.2\DevIO.Data.csproj.CopyComplete
+D:\Repositorios\ApiModel\src\DevIO.Data\obj\Debug\netcoreapp2.2\DevIO.Data.dll
+D:\Repositorios\ApiModel\src\DevIO.Data\obj\Debug\netcoreapp2.2\DevIO.Data.pdb
